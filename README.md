@@ -1,3 +1,7 @@
+watch the app LIVE 🔴
+deployed with firebase 🔥🔥🔥
+lesssssssssssgooooooooooooooooo 🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
