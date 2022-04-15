@@ -1,6 +1,7 @@
 watch the app LIVE 🔴
 deployed with firebase 🔥🔥🔥
 lesssssssssssgooooooooooooooooo 🚀🚀🚀🚀🚀🚀🚀🚀🚀
+click here ➡️➡️➡️➡️➡️   🔗https://twitter-clone-a4461.web.app/
 
 # Getting Started with Create React App
 
