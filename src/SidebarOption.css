@@ -1,0 +1,29 @@
+.sidebarOption {
+    display: flex;
+    align-items: center; /* ממרכז את האייקונים והכותרת */
+    cursor: pointer; /* מאפשר ליחצה את הכתפור/אייקון */ 
+}
+
+/* hover */
+.sidebarOption:hover {
+    background-color: #e8f5fe;
+    border-radius: 30px;
+    color: var(--twitter-color); /* came from App.css */
+    transition: color 100ms ease-in-out;
+}
+
+/* מרווח את הכותרת מהאייקון */
+.sidebarOption > .MuiSvgIcon-root {
+    padding: 20px;
+}
+
+/* text styling */
+.sidebarOption > h2 {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.sidebarOption--active {
+    color: var(--twitter-color);
+}
